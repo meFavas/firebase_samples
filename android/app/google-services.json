@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687479169679",
+    "project_id": "sample-projects-528b2",
+    "storage_bucket": "sample-projects-528b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687479169679:android:ffabe96a431aeb8c44c6fa",
+        "android_client_info": {
+          "package_name": "com.luminartechnolab.firebasesample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcWY_yrVY7_UJUho5G94oM7V1ID2QRq4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
